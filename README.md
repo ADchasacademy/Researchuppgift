@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Introduction 
 This document provides an introduction to Markdown Syntax, Github, Terminal and Git.
 
@@ -51,7 +49,7 @@ For more information, check
 |:---	|:---	|
 | **cd [directory]** | Enters another directory. |
 | **cd ..** |  Goes one directory backwards. |
-| **rm *[directory-name]*** | deletes directory |
+| **rm *[directory-name]*** | deletes directory. |
 | **ls** |  Shows all folders or files in the current directory.	|
 | **echo "*[text]*" > *[name.format]*** | Creates a file and adds everything that has been added in the string. |
 | **ls -la*** |  Shows hidden folders or files in the current directory.	|
@@ -77,7 +75,8 @@ For more information, check
 ![#Github](/github.png )
 # Github
 <br>
-Github is a developer platform that allows users to create, store and share repositories. Github can also be used as a GUI (*Graphical User Interface*), as it allows the users to interact with their repositories through the web interface. Such as creating repositories through the web interface instead of using Git terminal. 
+
+Github is a developer platform that allows users to create, store and share repositories. Github can also be used as a GUI, *(Graphical User Interface)*, as it allows the users to interact with their repositories through the web interface. Such as creating repositories through the web interface instead of using Git terminal. 
 
 <br><br>
 
@@ -150,4 +149,3 @@ Github is a developer platform that allows users to create, store and share repo
 
 
 
->>>>>>> dev
