@@ -45,8 +45,8 @@ For more information, check
 | **git init** |  Initializes a Git repository.	|
 | **git clone *[url]*** |  Retrieves a repository to local client.	|
 | **git status** |  Shows modified files.	|
-| **git add *[file]*** |  Stageds a file in current state in preparation to be commited.	|
-| **git add .** |  Stageds  **all files** in current state in preparation to be commited.	|
+| **git add *[file]*** |  Stages a file in current state in preparation to be commited.	|
+| **git add .** |  Stages  **all files** in current state in preparation to be commited.	|
 | **git commit -m *“[descriptive.message]”*** |  Commits all staged content.|
 | **git push -u origin *[branch.name]*** |  Pushes local branch commits to remote Git branch	|
 | **git branch *[branch.name]*** |  Creates a new branch.	|
