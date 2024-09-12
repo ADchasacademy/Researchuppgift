@@ -14,14 +14,14 @@ This document provides an introduction to Markdown Syntax, Github, Terminal and 
     - [Additional Git commands picked up while making this README.md](#additional-git-commands-picked-up-while-making-this-readmemd)
     - [How to retrieve and push commits using Git](#how-to-retrieve-and-push-commits-using-git)
 
-<br><br><br><br>
+<br>
 
 ![#Markdown](/markdown.png)
 # Markdown Syntax
 <br>
 This text file has been formatted using the Markdown markup language. Markdown is a markup language that adds formatting elements to plain text without using text editor programs such as Word, google docs or files as HTML or CSS. 
 
-<br><br>
+<br>
 
 ### Example:
 
@@ -37,7 +37,7 @@ This text file has been formatted using the Markdown markup language. Markdown i
 For more information, check
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
-<br><br><br><br>
+<br><br>
  
 ![#Terminal](/terminal.png )
 # Terminal commands
@@ -58,7 +58,7 @@ For more information, check
 | **touch [folder.name]** |  Creates a folder in the current directory. 	|
 | **pwd*** |  Prints current directory in terminal on command prompt. |'
 
-<br><br><br><br>
+<br><br>
 
 ### Terminal commands picked up by working on this project:
 <br>
@@ -68,7 +68,8 @@ For more information, check
 | **exit** | Terminates terminal. |
 | **clear** | Clears terminal window. |
 | **code .** |  Launches code to the chosen editor program. *PS! enter this code through the correct directory so that the chosen editor program knows which branch to launch.* |
-<br><br><br><br>
+
+<br><br>
 
 
  
@@ -76,7 +77,8 @@ For more information, check
 # Github
 <br>
 Github is a developer platform that allowes users to create, store and share repositories. Github can also be used as a GUI (*Graphical User Interface*), as it allows the users to interact with their repositories through the web interface. Such as creating repositories through the platform instead of using Git Terminal. 
-<br><br><br><br>
+
+<br><br>
 
 ![#Git](/git.png)
 
@@ -103,7 +105,7 @@ Github is a developer platform that allowes users to create, store and share rep
 
 ***To check out more Git commands, visit [GIT CHEAT SHEET](https://education.github.com/git-cheat-sheet-education.pdf)***
 
-<br><br><br><br>
+<br><br>
 
 ### Additional Git commands picked up while making this README.md:
 <br>
@@ -121,7 +123,7 @@ Github is a developer platform that allowes users to create, store and share rep
 
 ***I have also learned how to properly commit using descriptive messages that follow the Git Commit Convention, check [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for more information.***
 
-<br><br><br><br>
+<br><br>
 
 ### How to retrieve and push commits using Git:
 <br>
