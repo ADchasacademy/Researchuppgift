@@ -49,7 +49,7 @@ For more information, check
 |:---	|:---	|
 | **cd [directory]** | Enters another directory. |
 | **cd ..** |  Goes one directory backwards. |
-| **rm *[directory-name]*** | deletes directory. |
+| **rm *[directory-name]*** | Deletes directory. |
 | **ls** |  Shows all folders or files in the current directory.	|
 | **echo "*[text]*" > *[name.format]*** | Creates a file and adds everything that has been added in the string into the file. |
 | **ls -la** |  Shows hidden folders or files in the current directory.	|
