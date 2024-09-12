@@ -7,6 +7,9 @@ This document provides an introduction to Markdown Syntax, Github, Terminal and 
 - [Terminal](#terminal)
 - [Github](#github)
 - [Git](#git)
+    - [Git commands picked up during lecture](###git-commands-picked-up-during-lecture)
+    - [Additinal Git commands picked up while making this README.md](###additinal-git-commands-picked-up-while-making-this-README.md)
+    - [How to retrieve and push commits using Git](##how-to-retrieve-and-push-commits-using-git)
 
 
 # Markdown Syntax
@@ -86,7 +89,7 @@ I have also learned how to properly commit using descriptive messages that follo
     ```
  4. **Push local branch to remote repository branch:**
     ```bash
-    git push -u origin [*branch.name*]
+    git push -u origin [branch.name]
     ```
 
 
