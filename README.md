@@ -51,7 +51,7 @@ For more information, check
 | **cd ..** |  Goes one directory backwards. |
 | **rm *[directory-name]*** | deletes directory. |
 | **ls** |  Shows all folders or files in the current directory.	|
-| **echo "*[text]*" > *[name.format]*** | Creates a file and adds everything that has been added in the string. |
+| **echo "*[text]*" > *[name.format]*** | Creates a file and adds everything that has been added in the string into the file. |
 | **ls -la*** |  Shows hidden folders or files in the current directory.	|
 | **mkdir *[directory-name]*** |  Creates a folder in the current directory.	|
 | **cat *[name.format or directory-name]*** |  Displays file content or directory.	|
