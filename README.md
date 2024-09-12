@@ -75,7 +75,7 @@ For more information, check
 ![#Github](/github.png )
 # Github
 <br>
-Github is a developer platform that allowes users to create, store and share repositories. Github can also be used as a GUI (*Graphical User Interface*), as it allows the users to interact with their repositories through the web interface. Such as creating repositories through the web interface instead of using Git terminal. 
+Github is a developer platform that allows users to create, store and share repositories. Github can also be used as a GUI (*Graphical User Interface*), as it allows the users to interact with their repositories through the web interface. Such as creating repositories through the web interface instead of using Git terminal. 
 
 <br><br>
 
@@ -90,7 +90,7 @@ Github is a developer platform that allowes users to create, store and share rep
 |:---	|:---	|
 | **git --version** | Checks which Git version is being used. |
 | **git init** |  Initializes a Git repository.	|
-| **git clone *[url]*** |  Retrieves a repository to local client.	|
+| **git clone *[url]*** |  Retrieves a repository to a local client.	|
 | **git status** |  Shows modified files.	|
 | **git add *[name.format]*** |  Stages a file in the current state in preparation to be committed.	|
 | **git add .** |  Stages  **all files** in current state in preparation to be committed.	|
