@@ -14,12 +14,17 @@ This document provides an introduction to Markdown Syntax, Github, Terminal and 
     - [Additional Git commands picked up while making this README.md](#additional-git-commands-picked-up-while-making-this-readmemd)
     - [How to retrieve and push commits using Git](#how-to-retrieve-and-push-commits-using-git)
 
+<br><br><br><br>
+
 ![#Markdown](/markdown.png)
 # Markdown Syntax
+<br>
 This text file has been formatted using the Markdown markup language. Markdown is a markup language that adds formatting elements to plain text without using text editor programs such as Word, google docs or files as HTML or CSS. 
 
+<br><br>
 
 ### Example:
+
 *[Escaping characters](https://www.markdownguide.org/basic-syntax/#escaping-characters) can be used if you don't want Markdown Syntax to render the text*
 
 | Markdown    |      HTML      |  Rendered Output |
@@ -32,12 +37,13 @@ This text file has been formatted using the Markdown markup language. Markdown i
 For more information, check
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
-
+<br><br><br><br>
  
 ![#Terminal](/terminal.png )
 # Terminal commands
 
 ### Terminal commands picked up during lecture:
+<br>
 
 | Command | Explanation |
 |:---	|:---	|
@@ -50,27 +56,35 @@ For more information, check
 | **mkdir *[folder.name]*** |  Creates a folder in the current directory.	|
 | **cat *[file]*** |  Displays file content.	|
 | **touch [folder.name]** |  Creates a folder in the current directory. 	|
-| **pwd*** |  Prints current directory in terminal on command prompt. |
+| **pwd*** |  Prints current directory in terminal on command prompt. |'
+
+<br><br><br><br>
 
 ### Terminal commands picked up by working on this project:
+<br>
 
 | Command | Explanation |
 |:---	|:---	|
 | **exit** | Terminates terminal. |
 | **clear** | Clears terminal window. |
 | **code .** |  Launches code to the chosen editor program. *PS! enter this code through the correct directory so that the chosen editor program knows which branch to launch.* |
+<br><br><br><br>
 
 
  
 ![#Github](/github.png )
 # Github
+<br>
 Github is a developer platform that allowes users to create, store and share repositories. Github can also be used as a GUI (*Graphical User Interface*), as it allows the users to interact with their repositories through the web interface. Such as creating repositories through the platform instead of using Git Terminal. 
-
+<br><br><br><br>
 
 ![#Git](/git.png)
+
 # Git
 
 ### Git commands picked up during lecture:
+<br>
+
 | Command | Explanation |
 |:---	|:---	|
 | **git --version** | Checks which Git version is being used. |
@@ -85,12 +99,15 @@ Github is a developer platform that allowes users to create, store and share rep
 | **git branch** |  See branches.	|
 | **git checkout *[branch.name]*** |  Switch between branches.	|
 | **git merge *[branch.name]*** |  Merges selected branch into current branch.	| 
+<br>
 
-To check out more Git commands, visit [GIT CHEAT SHEET](https://education.github.com/git-cheat-sheet-education.pdf)
+***To check out more Git commands, visit [GIT CHEAT SHEET](https://education.github.com/git-cheat-sheet-education.pdf)***
 
-
+<br><br><br><br>
 
 ### Additional Git commands picked up while making this README.md:
+<br>
+
 | Command | Explanation |
 |:---	|:---	|
 | **git branch *[branch.name]*** | Creates a new branch. But does not navigate to the branch. |
@@ -100,12 +117,15 @@ To check out more Git commands, visit [GIT CHEAT SHEET](https://education.github
 | **git branch -d *[branch.name]*** |  Deletes selected branch.	|
 | **git diff --staged** |  Compare the staged changes with the local repository. |
 | **git push -f** |  Forces a push from a local client. (*Avoid using this* :cold_sweat:)	|
+<br>
 
-I have also learned how to properly commit using descriptive messages that follow the Git Commit Convention, check [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for more information. 
+***I have also learned how to properly commit using descriptive messages that follow the Git Commit Convention, check [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for more information.***
 
-
+<br><br><br><br>
 
 ### How to retrieve and push commits using Git:
+<br>
+
 *An example showing how to retrieve a repository from a hosted location, such as Github, via url and how to push staged changes from a local branch to a remote repository branch*
 
 1. **Clone the repository:**
