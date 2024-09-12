@@ -78,6 +78,7 @@ For more information, check
 
 Github is a developer platform that allows users to create, store and share repositories. Github can also be used as a GUI, *(Graphical User Interface)*, as it allows the users to interact with their repositories through the web interface. Such as creating repositories through the web interface instead of using Git terminal. 
 
+To learn more about this web interface visit [Github](https://github.com/about).
 <br><br>
 
 ![#Git](/git.png)
