@@ -3,13 +3,14 @@ This document provides an introduction to Markdown Syntax, Github, Terminal and 
 
 # Table Of Contents
 - [Markdown Syntax](#markdown-syntax)
-    - [Example](###example)
+    - [Example](#example)
 - [Terminal](#terminal)
 - [Github](#github)
 - [Git](#git)
-    - [Git commands picked up during lecture](###git-commands-picked-up-during-lecture)
-    - [Additinal Git commands picked up while making this README.md](###additinal-git-commands-picked-up-while-making-this-README.md)
-    - [How to retrieve and push commits using Git](##how-to-retrieve-and-push-commits-using-git)
+
+    - [Git commands picked up during lecture](#git-commands-picked-up-during-lecture)
+    - [Additional Git commands picked up while making this README.md](#additional-git-commands-picked-up-while-making-this-readmemd)
+    - [How to retrieve and push commits using Git](#how-to-retrieve-and-push-commits-using-git)
 
 
 # Markdown Syntax
@@ -57,7 +58,7 @@ To check out more Git commands, visit [GIT CHEAT SHEET](https://education.github
 
 
 
-### Additinal Git commands picked up while making this README.md:
+### Additional Git commands picked up while making this README.md:
 | Command | Explanation |
 |:---	|:---	|
 | **git branch *[branch.name]*** | Creates a new branch. But does not navigate to branch. |
