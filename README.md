@@ -5,6 +5,8 @@ This document provides an introduction to Markdown Syntax, Github, Terminal and 
 - [Markdown Syntax](#markdown-syntax)
     - [Example](#example)
 - [Terminal](#terminal)
+    - [Terminal commands picked up during lecture](#terminal-commands-picked-up-during-lecture)
+    - [Terminal commands picked up by working on this project](#terminal-commands-picked-up-by-working-on-this-project)
 - [Github](#github)
 - [Git](#git)
 
@@ -32,9 +34,32 @@ For more information, check
 
 
 
-# Terminal
+# Terminal commands
 
+### Terminal commands picked up during lecture:
 
+| Command | Explanation |
+|:---	|:---	|
+| **cd [folder/file]** | Enters another directory. |
+| **cd ..** |  Goes one directory backwards. |
+| **rm *[file.name]*** | deletes directory |
+| **ls** |  Shows all folder or files in current directory.	|
+| **echo "*[text]*" > *[file.format]*** | Creates a file and adds everything that has been added in the string. |
+| **ls -la*** |  Shows hidden folders or files in current directory.	|
+| **mkdir *[folder.name]*** |  Creates a folder in current directory.	|
+| **cat *[file]*** |  Displays file content.	|
+| **touch [folder.name]** |  Creates a folder in current directory. 	|
+| **pwd*** |  Prints current directory in terminal on command prompt. |
+
+### Terminal commands picked up by working on this project:
+
+| Command | Explanation |
+|:---	|:---	|
+| **exit** | Terminates terminal. |
+| **clear** | Clears terminal window. |
+| **code .** |  Launches code to chosen editor program. *PS! enter this code through correct directory so that the chosen editor program knows which branch to launch.* |
+
+# Github
 
 # Git
 
@@ -47,10 +72,10 @@ For more information, check
 | **git status** |  Shows modified files.	|
 | **git add *[file]*** |  Stages a file in current state in preparation to be commited.	|
 | **git add .** |  Stages  **all files** in current state in preparation to be commited.	|
-| **git commit -m *“[descriptive.message]”*** |  Commits all staged content.|
-| **git push -u origin *[branch.name]*** |  Pushes local branch commits to remote Git branch	|
+| **git commit -m *“[descriptive.message]”*** |  Commits all staged content to current branch.|
+| **git push -u origin *[branch.name]*** |  Pushes selected local branch to remote Git branch.	|
 | **git branch *[branch.name]*** |  Creates a new branch.	|
-| **git branch log** |  See branches	|
+| **git branch** |  See branches.	|
 | **git checkout *[branch.name]*** |  Switch between branches.	|
 | **git merge *[branch.name]*** |  Merges selected branch into current branch.	| 
 
@@ -67,13 +92,13 @@ To check out more Git commands, visit [GIT CHEAT SHEET](https://education.github
 | **git commit --amend** |  Edits recent commit.	|
 | **git branch -d *[branch.name]*** |  Deletes selected branch.	|
 | **git diff --staged** |  Compares the staged changes with local repository. |
-| **git push -f** |  Forces a push from local client. (*avoid using this* :cold_sweat:)	|
+| **git push -f** |  Forces a push from local client. (*Avoid using this* :cold_sweat:)	|
 
 I have also learned how to properly commit using descriptive messages that follow the Git Commit Convention, check [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for more information. 
 
 
 
-## How to retrieve and push commits using Git:
+### How to retrieve and push commits using Git:
 *An example showing how to retrieve a repository from a hosted location, such as Github, via url and how to push staged changes from a local branch to a remote repository branch*
 
 1. **Clone the repository:**
